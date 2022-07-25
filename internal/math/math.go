@@ -1,5 +1,9 @@
 package math
 
+import (
+	"math"
+)
+
 func Sinus(input float64) (output float64) {
 	// Insert your code here
 	return math.Sin(input)
